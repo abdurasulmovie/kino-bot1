@@ -17,7 +17,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiohttp import web
 
 # --- 1. SOZLAMALAR ---
-TOKEN = '8628793854:8628793854:AAFk_tTmjK77YCnvuH6VqV_-6VAQSH6_sPs'
+TOKEN = '8628793854:AAFk_tTmjK77YCnvuH6VqV_-6VAQSH6_sPs'
 ADMIN_ID =  6834542994 
 
 CHANNELS = [
